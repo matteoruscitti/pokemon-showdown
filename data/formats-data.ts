@@ -1102,7 +1102,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "(DUU)",
 	},
 	taurosgalar: {
-		tier: "UU",
+		tier: "Illegal",
 	},
 	magikarp: {
 		tier: "LC UU",
@@ -2737,7 +2737,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UU",
 	},
 	rampardosalmian: {
-		tier: "RU",
+		tier: "Illegal",
 	},
 	shieldon: {
 		tier: "LC UU",
@@ -2864,7 +2864,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "RU",
 	},
 	chatotorren: {
-		tier: "NU",
+		tier: "Illegal",
 	},
 	spiritomb: {
 		randomBattleMoves: ["calmmind", "darkpulse", "psychic", "rest", "shadowsneak", "sleeptalk", "willowisp"],
@@ -2889,7 +2889,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DUU",
 	},
 	garchompalola: {
-		tier: "UU",
+		tier: "Illegal",
 	},
 	garchompmega: {
 		isNonstandard: "PastMEGA",
@@ -6269,13 +6269,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 	},
 	flamake: {
-		tier: "LC UU",
+		tier: "Illegal",
 	},
 	debikku: {
-		tier: "NFE",
+		tier: "Illegal",
 	},
 	ribbostuma: {
-		tier: "UU",
+		tier: "Illegal",
 	},
 	vektument: {
 		tier: "OU",
@@ -6317,7 +6317,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UU",
 	},
 	smackafaun: {
-		tier: "OU",
+		tier: "Illegal",
 	},
 	cervumis: {
 		tier: "OU",
@@ -6371,10 +6371,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "RU",
 	},
 	mossedge: {
-		tier: "UU",
+		tier: "Illegal",
 	},
 	beatboon: {
-		tier: "OU",
+		tier: "Illegal",
 	},
 	helmelime: {
 		tier: "LC",
@@ -6386,13 +6386,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	leamyst: {
-		tier: "UU",
+		tier: "Illegal",
 	},
 	shamblock: {
 		tier: "OU",
 	},
 	pyratrata: {
-		tier: "OU",
+		tier: "Illegal",
 	},
 	sapogro: {
 		tier: "RU",
@@ -6420,7 +6420,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	fortuxin: {
-		tier: "OU",
+		tier: "Illegal",
 	},
 	chefuego: {
 		tier: "OU",
@@ -6432,10 +6432,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	wizzard: {
-		tier: "UU",
+		tier: "Illegal",
 	},
 	shoggoz: {
-		tier: "OU",
+		tier: "Illegal",
 	},
 	// goranium: {
 		// tier: "Uber",
