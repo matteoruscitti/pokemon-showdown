@@ -93599,7 +93599,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			doubleteam: ["8M"],
 			dracometeor: ["8M"],
 			draconicfangs: ["8M"],
-			dragonbreath: ["8M"]
+			dragonbreath: ["8M"],
 			dragonclaw: ["8M"],
 			dragondance: ["8M"],
 			dragonhammer: ["8M"],
