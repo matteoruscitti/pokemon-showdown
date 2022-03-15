@@ -93472,7 +93472,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 		megakick: ["8M"],
 		megapunch: ["8M"],
 		mimic: ["8M"],
-		minimize: ["8M"]
+		minimize: ["8M"],
 		mudslap: ["8M"],
 		playnice: ["8M"],
 		pound: ["8M"],
